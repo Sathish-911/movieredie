@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scraped Links</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Movie Links</h1>
+
+<input type="text" id="search" placeholder="Search movies...">
+
+<ul id="movieList">
+    {% for item in links %}
+    <li>
+        <a href="{{ item.url }}" target="_blank">
+            {{ item.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+<script>
+const search = document.getElementById("search");
+
+search.addEventListener("keyup", function () {
+    let filter = search.value.toLowerCase();
+    let items = document.querySelectorAll("#movieList li");
+
+    items.forEach(item => {
+        item.style.display = item.innerText.toLowerCase().includes(filter)
+            ? ""
+            : "none";
+    });
+});
+</script>
+
+</body>
+</html>

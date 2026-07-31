@@ -1,0 +1,674 @@
+[
+    {
+        "title": "MovieRulz",
+        "url": "/"
+    },
+    {
+        "title": "Home",
+        "url": "https://www.5movierulz.vote"
+    },
+    {
+        "title": "Featured",
+        "url": "https://www.5movierulz.vote/movies?sort=featured"
+    },
+    {
+        "title": "Hollywood Featured",
+        "url": "https://www.5movierulz.vote/category/hollywood-featured"
+    },
+    {
+        "title": "Bollywood Featured",
+        "url": "https://www.5movierulz.vote/category/bollywood-featured"
+    },
+    {
+        "title": "Telugu Featured",
+        "url": "https://www.5movierulz.vote/category/telugu-featured"
+    },
+    {
+        "title": "Tamil Featured",
+        "url": "https://www.5movierulz.vote/category/tamil-featured"
+    },
+    {
+        "title": "Malayalam Featured",
+        "url": "https://www.5movierulz.vote/category/malayalam-featured"
+    },
+    {
+        "title": "Bollywood",
+        "url": "https://www.5movierulz.vote/category/bollywood-featured"
+    },
+    {
+        "title": "Bollywood Movie 2026",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2026"
+    },
+    {
+        "title": "Bollywood Movie 2025",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2025"
+    },
+    {
+        "title": "Bollywood Movie 2024",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2024"
+    },
+    {
+        "title": "Bollywood Movie 2023",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2023"
+    },
+    {
+        "title": "Bollywood Movie 2022",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2022"
+    },
+    {
+        "title": "Bollywood Movie 2021",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2021"
+    },
+    {
+        "title": "Bollywood Movie 2020",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2020"
+    },
+    {
+        "title": "Bollywood Movie 2019",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2019"
+    },
+    {
+        "title": "Bollywood Movie 2018",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2018"
+    },
+    {
+        "title": "Bollywood Movie 2017",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2017"
+    },
+    {
+        "title": "Bollywood Movie 2016",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2016"
+    },
+    {
+        "title": "Bollywood Movie 2015",
+        "url": "https://www.5movierulz.vote/category/bollywood-movies-2015"
+    },
+    {
+        "title": "Telugu",
+        "url": "https://www.5movierulz.vote/category/telugu-featured/"
+    },
+    {
+        "title": "Telugu Movies 2026",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2026"
+    },
+    {
+        "title": "Telugu Movies 2025",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2025"
+    },
+    {
+        "title": "Telugu Movies 2024",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2024"
+    },
+    {
+        "title": "Telugu Movies 2023",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2023"
+    },
+    {
+        "title": "Telugu Movies 2022",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2022"
+    },
+    {
+        "title": "Telugu Movies 2021",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2021"
+    },
+    {
+        "title": "Telugu Movies 2020",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2020"
+    },
+    {
+        "title": "Telugu Movies 2019",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2019"
+    },
+    {
+        "title": "Telugu Movies 2018",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2018"
+    },
+    {
+        "title": "Telugu Movies 2017",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2017"
+    },
+    {
+        "title": "Telugu Movies 2016",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2016"
+    },
+    {
+        "title": "Telugu Movies 2015",
+        "url": "https://www.5movierulz.vote/category/telugu-movies-2015"
+    },
+    {
+        "title": "Tamil",
+        "url": "https://www.5movierulz.vote/category/tamil-featured"
+    },
+    {
+        "title": "Tamil Movies 2026",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2026"
+    },
+    {
+        "title": "Tamil Movies 2025",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2025"
+    },
+    {
+        "title": "Tamil Movies 2024",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2024"
+    },
+    {
+        "title": "Tamil Movies 2023",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2023"
+    },
+    {
+        "title": "Tamil Movies 2022",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2022"
+    },
+    {
+        "title": "Tamil Movies 2021",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2021"
+    },
+    {
+        "title": "Tamil Movies 2020",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2020"
+    },
+    {
+        "title": "Tamil Movies 2019",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2019"
+    },
+    {
+        "title": "Tamil Movies 2018",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2018"
+    },
+    {
+        "title": "Tamil Movies 2017",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2017"
+    },
+    {
+        "title": "Tamil Movies 2016",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2016"
+    },
+    {
+        "title": "Tamil Movies 2015",
+        "url": "https://www.5movierulz.vote/category/tamil-movies-2015"
+    },
+    {
+        "title": "Malayalam",
+        "url": "https://www.5movierulz.vote/category/malayalam-featured"
+    },
+    {
+        "title": "Malayalam Movies 2026",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2026"
+    },
+    {
+        "title": "Malayalam Movies 2025",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2025"
+    },
+    {
+        "title": "Malayalam Movies 2024",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2024"
+    },
+    {
+        "title": "Malayalam Movies 2023",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2023"
+    },
+    {
+        "title": "Malayalam Movies 2022",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2022"
+    },
+    {
+        "title": "Malayalam Movies 2021",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2021"
+    },
+    {
+        "title": "Malayalam Movies 2020",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2020"
+    },
+    {
+        "title": "Malayalam Movies 2019",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2019"
+    },
+    {
+        "title": "Malayalam Movies 2018",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2018"
+    },
+    {
+        "title": "Malayalam Movies 2017",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2017"
+    },
+    {
+        "title": "Malayalam Movies 2016",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2016"
+    },
+    {
+        "title": "Malayalam Movies 2015",
+        "url": "https://www.5movierulz.vote/category/malayalam-movies-2015"
+    },
+    {
+        "title": "Hollywood",
+        "url": "https://www.5movierulz.vote/category/hollywood-featured"
+    },
+    {
+        "title": "Hollywood Movie 2026",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2026"
+    },
+    {
+        "title": "Hollywood Movie 2025",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2025"
+    },
+    {
+        "title": "Hollywood Movie 2024",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2024"
+    },
+    {
+        "title": "Hollywood Movie 2023",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2023"
+    },
+    {
+        "title": "Hollywood Movie 2022",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2022"
+    },
+    {
+        "title": "Hollywood Movie 2021",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2021"
+    },
+    {
+        "title": "Hollywood Movie 2020",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2020"
+    },
+    {
+        "title": "Hollywood Movie 2019",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2019"
+    },
+    {
+        "title": "Hollywood Movie 2018",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2018"
+    },
+    {
+        "title": "Hollywood Movie 2017",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2017"
+    },
+    {
+        "title": "Hollywood Movie 2016",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2016"
+    },
+    {
+        "title": "Hollywood Movie 2015",
+        "url": "https://www.5movierulz.vote/category/hollywood-movies-2015"
+    },
+    {
+        "title": "Dubbed",
+        "url": "https://www.5movierulz.vote/#"
+    },
+    {
+        "title": "Hindi Dubbed Movies",
+        "url": "https://www.5movierulz.vote/language/hindi-dubbed"
+    },
+    {
+        "title": "Tamil Dubbed Movies",
+        "url": "https://www.5movierulz.vote/language/tamil-dubbed"
+    },
+    {
+        "title": "Telugu Dubbed Movies",
+        "url": "https://www.5movierulz.vote/language/telugu-dubbed"
+    },
+    {
+        "title": "Others",
+        "url": "https://www.5movierulz.vote/#"
+    },
+    {
+        "title": "Bengali Movies",
+        "url": "https://www.5movierulz.vote/language/bengali"
+    },
+    {
+        "title": "Punjabi Movies",
+        "url": "https://www.5movierulz.vote/language/punjabi"
+    },
+    {
+        "title": "Quality",
+        "url": "https://www.5movierulz.vote/#"
+    },
+    {
+        "title": "DVDScr New Movies",
+        "url": "https://www.5movierulz.vote/quality/dvdscr"
+    },
+    {
+        "title": "DVDRip Movies",
+        "url": "https://www.5movierulz.vote/quality/dvdrip"
+    },
+    {
+        "title": "HDRip Movies",
+        "url": "https://www.5movierulz.vote/quality/hdrip"
+    },
+    {
+        "title": "BRRip Movies",
+        "url": "https://www.5movierulz.vote/quality/brrip"
+    },
+    {
+        "title": "older ->",
+        "url": "https://www.5movierulz.vote/movies/page/1"
+    },
+    {
+        "title": "Deewana (2026) HDRip [Tamil]",
+        "url": "https://www.5movierulz.vote/deewana-2026-hdrip-tamil-7272.html"
+    },
+    {
+        "title": "Son of Sara: Volume 1 (2026) HDRip [Telugu Dubbed]",
+        "url": "https://www.5movierulz.vote/son-of-sara-volume-1-2026-hdrip-telugu-dubbed-7271.html"
+    },
+    {
+        "title": "Chum (2026) BRRip [Telugu Dubbed]",
+        "url": "https://www.5movierulz.vote/chum-2026-brrip-telugu-dubbed-7269.html"
+    },
+    {
+        "title": "Rao Bahadur (2026) HDRip [Hindi]",
+        "url": "https://www.5movierulz.vote/rao-bahadur-2026-hdrip-hindi-7268.html"
+    },
+    {
+        "title": "Police Complaint (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/police-complaint-2026-hdrip-telugu-7270.html"
+    },
+    {
+        "title": "Rao Bahadur (2026) HDRip [Tamil]",
+        "url": "https://www.5movierulz.vote/rao-bahadur-2026-hdrip-tamil-7266.html"
+    },
+    {
+        "title": "Gatta Kusthi 2 (2026) HDRip [Malayalam]",
+        "url": "https://www.5movierulz.vote/gatta-kusthi-2-2026-hdrip-malayalam-7267.html"
+    },
+    {
+        "title": "Rao Bahadur (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/rao-bahadur-2026-hdrip-telugu-7259.html"
+    },
+    {
+        "title": "Love Oh Love (2026) HDRip [Tamil]",
+        "url": "https://www.5movierulz.vote/love-oh-love-2026-hdrip-tamil-7264.html"
+    },
+    {
+        "title": "Gatta Kusthi 2 (2026) HDRip [Tamil]",
+        "url": "https://www.5movierulz.vote/gatta-kusthi-2-2026-hdrip-tamil-7265.html"
+    },
+    {
+        "title": "Kaalam Paranja Kadha (2026) HDRip [Malayalam]",
+        "url": "https://www.5movierulz.vote/kaalam-paranja-kadha-2026-hdrip-malayalam-7263.html"
+    },
+    {
+        "title": "Love Oh Love (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/love-oh-love-2026-hdrip-telugu-7262.html"
+    },
+    {
+        "title": "Gatta Kusthi 2 (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/gatta-kusthi-2-2026-hdrip-telugu-7261.html"
+    },
+    {
+        "title": "Balan (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/balan-2026-hdrip-telugu-7260.html"
+    },
+    {
+        "title": "Hai Jawani Toh Ishq Hona Hai (2026) HDRip [Hindi]",
+        "url": "https://www.5movierulz.vote/hai-jawani-toh-ishq-hona-hai-2026-hdrip-hindi-7258.html"
+    },
+    {
+        "title": "Balan (2026) HDRip [Malayalam]",
+        "url": "https://www.5movierulz.vote/balan-2026-hdrip-malayalam-7257.html"
+    },
+    {
+        "title": "Spider-Man: Brand New Day (2026) DVDScr [Telugu Dubbed]",
+        "url": "https://www.5movierulz.vote/spider-man-brand-new-day-2026-telugu-dubbed-7256.html"
+    },
+    {
+        "title": "A Padam (2026) HDRip [Tamil]",
+        "url": "https://www.5movierulz.vote/a-padam-2026-hdrip-tamil-7255.html"
+    },
+    {
+        "title": "Peddi (2026) HDRip [Hindi]",
+        "url": "https://www.5movierulz.vote/peddi-2026-hdrip-hindi-7254.html"
+    },
+    {
+        "title": "Deewana (2026) HDRip [Telugu]",
+        "url": "https://www.5movierulz.vote/deewana-2026-hdrip-telugu-7253.html"
+    },
+    {
+        "title": "2026",
+        "url": "/year/2026"
+    },
+    {
+        "title": "2025",
+        "url": "/year/2025"
+    },
+    {
+        "title": "2024",
+        "url": "/year/2024"
+    },
+    {
+        "title": "2023",
+        "url": "/year/2023"
+    },
+    {
+        "title": "2022",
+        "url": "/year/2022"
+    },
+    {
+        "title": "2021",
+        "url": "/year/2021"
+    },
+    {
+        "title": "2020",
+        "url": "/year/2020"
+    },
+    {
+        "title": "2019",
+        "url": "/year/2019"
+    },
+    {
+        "title": "2018",
+        "url": "/year/2018"
+    },
+    {
+        "title": "2017",
+        "url": "/year/2017"
+    },
+    {
+        "title": "2016",
+        "url": "/year/2016"
+    },
+    {
+        "title": "2015",
+        "url": "/year/2015"
+    },
+    {
+        "title": "2014",
+        "url": "/year/2014"
+    },
+    {
+        "title": "2013",
+        "url": "/year/2013"
+    },
+    {
+        "title": "2012",
+        "url": "/year/2012"
+    },
+    {
+        "title": "2011",
+        "url": "/year/2011"
+    },
+    {
+        "title": "2010",
+        "url": "/year/2010"
+    },
+    {
+        "title": "2009",
+        "url": "/year/2009"
+    },
+    {
+        "title": "2008",
+        "url": "/year/2008"
+    },
+    {
+        "title": "2007",
+        "url": "/year/2007"
+    },
+    {
+        "title": "2006",
+        "url": "/year/2006"
+    },
+    {
+        "title": "2005",
+        "url": "/year/2005"
+    },
+    {
+        "title": "2004",
+        "url": "/year/2004"
+    },
+    {
+        "title": "Action",
+        "url": "https://www.5movierulz.vote/genre/action"
+    },
+    {
+        "title": "Adult",
+        "url": "https://www.5movierulz.vote/genre/adult"
+    },
+    {
+        "title": "Adventure",
+        "url": "https://www.5movierulz.vote/genre/adventure"
+    },
+    {
+        "title": "Animation",
+        "url": "https://www.5movierulz.vote/genre/animation"
+    },
+    {
+        "title": "Biography",
+        "url": "https://www.5movierulz.vote/genre/biography"
+    },
+    {
+        "title": "Comedy",
+        "url": "https://www.5movierulz.vote/genre/comedy"
+    },
+    {
+        "title": "Crime",
+        "url": "https://www.5movierulz.vote/genre/crime"
+    },
+    {
+        "title": "Dark",
+        "url": "https://www.5movierulz.vote/genre/dark"
+    },
+    {
+        "title": "Documentary",
+        "url": "https://www.5movierulz.vote/genre/documentary"
+    },
+    {
+        "title": "Drama",
+        "url": "https://www.5movierulz.vote/genre/drama"
+    },
+    {
+        "title": "Erotic",
+        "url": "https://www.5movierulz.vote/genre/erotic"
+    },
+    {
+        "title": "Family",
+        "url": "https://www.5movierulz.vote/genre/family"
+    },
+    {
+        "title": "Fantasy",
+        "url": "https://www.5movierulz.vote/genre/fantasy"
+    },
+    {
+        "title": "Game-Show",
+        "url": "https://www.5movierulz.vote/genre/game-show"
+    },
+    {
+        "title": "Historical",
+        "url": "https://www.5movierulz.vote/genre/historical"
+    },
+    {
+        "title": "History",
+        "url": "https://www.5movierulz.vote/genre/history"
+    },
+    {
+        "title": "Horror",
+        "url": "https://www.5movierulz.vote/genre/horror"
+    },
+    {
+        "title": "Music",
+        "url": "https://www.5movierulz.vote/genre/music"
+    },
+    {
+        "title": "Musical",
+        "url": "https://www.5movierulz.vote/genre/musical"
+    },
+    {
+        "title": "Mystery",
+        "url": "https://www.5movierulz.vote/genre/mystery"
+    },
+    {
+        "title": "News",
+        "url": "https://www.5movierulz.vote/genre/news"
+    },
+    {
+        "title": "Political",
+        "url": "https://www.5movierulz.vote/genre/political"
+    },
+    {
+        "title": "Reality-TV",
+        "url": "https://www.5movierulz.vote/genre/reality-tv"
+    },
+    {
+        "title": "Religious",
+        "url": "https://www.5movierulz.vote/genre/religious"
+    },
+    {
+        "title": "Romance",
+        "url": "https://www.5movierulz.vote/genre/romance"
+    },
+    {
+        "title": "Romantic",
+        "url": "https://www.5movierulz.vote/genre/romantic"
+    },
+    {
+        "title": "Sci-Fi",
+        "url": "https://www.5movierulz.vote/genre/sci-fi"
+    },
+    {
+        "title": "Social",
+        "url": "https://www.5movierulz.vote/genre/social"
+    },
+    {
+        "title": "Sport",
+        "url": "https://www.5movierulz.vote/genre/sport"
+    },
+    {
+        "title": "Suspense",
+        "url": "https://www.5movierulz.vote/genre/suspense"
+    },
+    {
+        "title": "Talk-Show",
+        "url": "https://www.5movierulz.vote/genre/talk-show"
+    },
+    {
+        "title": "Thriller",
+        "url": "https://www.5movierulz.vote/genre/thriller"
+    },
+    {
+        "title": "War",
+        "url": "https://www.5movierulz.vote/genre/war"
+    },
+    {
+        "title": "Western",
+        "url": "https://www.5movierulz.vote/genre/western"
+    },
+    {
+        "title": "visit our contact page",
+        "url": "/contact"
+    },
+    {
+        "title": "[email\u00a0protected]",
+        "url": "/cdn-cgi/l/email-protection"
+    },
+    {
+        "title": "About",
+        "url": "/about"
+    },
+    {
+        "title": "Contact",
+        "url": "/contact"
+    },
+    {
+        "title": "Privacy Policy",
+        "url": "/privacy"
+    }
+]
